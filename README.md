@@ -5,7 +5,7 @@
 **NFT Marketplace with Royalties** is a blockchain-based decentralized platform that enables creators to **mint, sell, and earn royalties** from their digital assets every time they are resold.
 By integrating **smart contracts**, this platform ensures that **artists retain perpetual income rights**, promoting fairness and transparency in the NFT ecosystem.
 
----
+-
 
 ## 🚀 Key Features
 
