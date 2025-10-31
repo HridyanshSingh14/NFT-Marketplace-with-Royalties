@@ -141,6 +141,7 @@ Contributions, feature suggestions, and bug fixes are welcome!
 Fork this repository, make your improvements, and submit a pull request.
 
 ---
+<img width="1470" height="956" alt="Screenshot 2025-11-01 at 12 07 30 AM" src="https://github.com/user-attachments/assets/cf80015b-1b6d-4266-962f-989a35d01703" />
 
 ## 📊 Vision Statement
 
